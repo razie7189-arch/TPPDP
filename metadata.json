@@ -1,0 +1,6 @@
+{
+  "name": "Portal Pelaporan Bacaan Al-Quran Daerah Penampang",
+  "description": "Sistem Pelaporan dan Rekalibrasi ITQAN Bacaan Al-Quran & Iqra j-QAF bagi Sekolah-Sekolah Daerah Penampang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
